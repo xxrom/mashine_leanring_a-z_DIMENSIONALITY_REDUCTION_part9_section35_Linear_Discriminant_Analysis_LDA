@@ -1,4 +1,5 @@
 # LDA Linear Discriminant Analysis supervised model
+# ИМПОЛЬЗУЕТСЯ ЛИНЕЙНАЯ МОДЕЛЬ ПРЕДСКАЗАНИЯ!!!
 # supervised = алгоритм зависит от выходного параметра y_train
 # accuracy = 100% !!!
 
