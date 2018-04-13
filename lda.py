@@ -45,7 +45,7 @@ y_pred = classifier.predict(X_test) # предсказываем данные и
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred) # закиыдваем тестовые и предсказанные данные
 # данные в 3х3 матрице [[14 0 0], [0, 16, 0], [0, 0, 6]]
-# точность модели 36/36 = 100% !!! на тестовых данных
+# точность модели 36/36 = 100% !!! на тестовых данных !!!
 
 
 # Visualising the Training set results
